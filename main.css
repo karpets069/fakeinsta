@@ -1,0 +1,52 @@
+body {
+    background-color: #f1fffe;
+}
+
+.instalogo {
+    width: 200px;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+}
+
+.search-bar {
+    height: 40px;
+    width: 270px;
+    background-image: url("assets/icons/search\ icon.png");
+    background-size: 27px 24px;
+    background-repeat: no-repeat;
+    background-position: 16px 8px;
+    padding-left: 60px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 13px -7px #b9b7b7, 5px 5px 15px 5px rgba(0,0,0,0);
+    font-size: 24pt;
+    font-family: "Consolas", serif;
+    border: 0;
+}
+
+.head-line {
+    background-color: #f9ffff;
+    padding: 24px 0;
+}
+
+.log-in, .sign-up {
+    font-size: 16pt;
+    font-family: "Arial Rounded MT", serif;
+    font-weight: bold;
+}
+
+.log-in {
+    margin-right: 55px;
+    background-color: #2f65bd;
+    border: 0;
+    padding: 11px 15px;
+    border-radius: 10px;
+    color: white;
+}
+
+.sign-up {
+    color: #2f65bd;
+    text-decoration: none;
+}
